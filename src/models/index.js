@@ -41,3 +41,9 @@ db.sequelize = sequelize;
 db.Sequelize = Sequelize;
 
 module.exports = db;
+// user id
+//  flight id 
+// price 
+// total seats
+// status enum
+// 
